@@ -51,6 +51,7 @@ You'll find carefully crafted prompts and techniques to improve your results.
 - Drone Shots
 - Travel
 - Realistic Scenes
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 
 ---
 
